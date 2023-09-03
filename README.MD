@@ -2,8 +2,8 @@
 <html>
 
 <head>
-    <meta charset="UTF-8">
-    <title>Discord Message Logger and Webhook Sender</title>
+    
+    
 </head>
 
 <body>
